@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+.b-color{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+}
+.btn-div{
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+}
+.click-me{
+    background-color: black;
+    cursor: pointer;
+    color: bisque;
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+}
